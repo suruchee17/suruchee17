@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @suruchee17
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in software Quality Assurance 
+- 🌱 I’m currently learning cypress
 - 📫 How to reach me 
 facebok:https://www.facebook.com/suruchi.tandan/
 linkedin:https://www.linkedin.com/feed/
